@@ -1,6 +1,4 @@
-# AngularFirebaseCrud
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+# Angular Firebase CRUD example with Realtime DataBase | AngularFireDatabase
 
 ## Development server
 
